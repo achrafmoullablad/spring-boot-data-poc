@@ -1,7 +1,7 @@
 # spring-boot-data POC
 ## Prerequisites
 
-- jdk 19
+- jdk 17
 - maven 3.6.1 or higher
 - docker 1.6.0 or higher (<https://www.docker.com/>)
 
@@ -21,7 +21,3 @@ $ mvn clean install
 ```shell
 $ mvn spring-boot:run
 ```
-
-
-
-
